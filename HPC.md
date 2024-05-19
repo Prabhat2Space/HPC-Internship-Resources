@@ -1,4 +1,4 @@
-##HPC Internship - Placment Resourses and refrences  
+## HPC Internship - Placment Resourses and refrences  
 **The motivation behind developing this document arises from a thorough review of the
 information available on the Ministry of Electronics & Information Technology website,
 particularly the reports submitted by the Artificial Intelligence Committees. It is evident that
